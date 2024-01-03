@@ -1,4 +1,4 @@
-该文为MITRE作为美国DHS的FFRDC，成立了国土安全系统工程与发展研究院（HSSEDI），并开展相关研究所撰写的下一代网络基础设施（NGCI） Apex网络风险指标和威胁模型评估开展的研究报告（ pr_18-1174-ngci-cyber-threat-modeling翻译版）。原文地址在此：[点击查看](https://www.mitre.org/sites/default/files/publications/pr_18-1174-ngci-cyber-threat-modeling.pdf "原文")
+该文为MITRE成立的国土安全系统工程与发展研究院（HSSEDI），撰写的下一代网络基础设施（NGCI） Apex网络风险指标和威胁模型评估开展的研究报告（ pr_18-1174-ngci-cyber-threat-modeling翻译版）。原文地址在此：[点击查看](https://www.mitre.org/sites/default/files/publications/pr_18-1174-ngci-cyber-threat-modeling.pdf "原文")
 
 该报告相关背景说明如下：
 
